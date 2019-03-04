@@ -1,7 +1,7 @@
 import codecs
 import json
-import allRencaiInfoScrapy.filter.filter_sameName as filter_sameName
-import allRencaiInfoScrapy.filter.getContent_by_url as getContent_by_url
+import filter_sameName
+import getContent_by_url
 
 # data_file_path = "./qingkeUrl.json"
 data_file_path = "../../qianrenUrl.json"
@@ -21,7 +21,7 @@ if __name__ == "__main__":
         else:
             unfind_urls.append(data)
     filter = filter_sameName.filter()
-    filter_result = filter.filter(unfind_urls)
+    filter_result = filter.filter(unfind_urls[:10])
     find_urls += filter_result[0]
     unfind_urls = filter_result[1]
 
@@ -31,9 +31,10 @@ if __name__ == "__main__":
     json.dump(unfind_urls, codecs.open(unfind_url_path,'w',encoding='utf-8'),ensure_ascii=False)
 
     all_rencai_info = []
-    for url in find_urls:
-        get_info = getContent_by_url(url)
+    for url in find_urls[:10]:
+        get_info = getContent_by_url.spbaike(url['find_name'], url['url'])
         if get_info:
+            get_info['basic_info'] = url['origin_info']
             all_rencai_info.append(get_info)
 
     json.dump(all_rencai_info, codecs.open(all_rencai_info_path, 'w', encoding='utf-8'), ensure_ascii=False)

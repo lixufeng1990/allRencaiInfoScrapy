@@ -6,6 +6,7 @@ import codecs
 import time
 import requests
 from bs4 import BeautifulSoup
+import getContent_by_url
 
 # data_file_path = "./qingkeUrl.json"
 data_file_path = "../../qianrenUrl.json"
@@ -39,7 +40,11 @@ class filter():
         if len(character_list) > 0:
             return character_list
         else:
-            return False
+            info = getContent_by_url.spbaike(name, url)
+            if info:
+                return [{'name':name, 'url':url}]
+            else:
+                return False
 
     def get_page_text(self, url):
         headers = {
@@ -84,7 +89,7 @@ class filter():
                 best_url = ''
                 for item in character_list:
                     score = 0
-                    print("filter name: "+name+", looking page: "+item['url'])
+                    print("looking page: "+item['url'])
                     page_text = self.get_page_text(item['url'])
                     self.filter_bank[name].append((item['url'], page_text))
                     for key in infomatin:
@@ -93,7 +98,7 @@ class filter():
                     if score > best_score:
                         best_score = score
                         best_url = item['url']
-                if not best_score:
+                if best_score:
                     return best_url
                 else:
                     return False
@@ -104,11 +109,12 @@ class filter():
         find_urls = []
         count = 0
         for data in all_unfind_data:
-            print("filtering person name: " + data['unfind_name'] + ", have process people num: " + str(count))
+            print("have process people num: " + str(count))
             filter_result = self.filter_name_by_info(data['unfind_name'], data['origin_info'])
             if filter_result:
                 data['url'] = filter_result
                 data['find_flag'] = True
+                data['find_name'] = data['unfind_name']
                 find_urls.append(data)
                 all_unfind_data.remove(data)
             count += 1

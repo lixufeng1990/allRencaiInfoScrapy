@@ -46,7 +46,7 @@ def spbaike(name, url):
         detail_content = ''
         for data in datalist3:
             detail_header.append(data.get_text())
-        detail_header.append('词条标签')
+        detail_header.append('百度百科内容由网友')
         datalist4 = soup.select('body > div.body-wrapper > div.content-wrapper > div > div.main-content > div ')
         for data in datalist4:
             detail_content += data.get_text()
@@ -57,7 +57,7 @@ def spbaike(name, url):
             end = detail_content.find(detail_header[i+1])
             info[detail_header[i].replace(name,'')] = detail_content[begin+len(detail_header[i]):end]
     if len(info) == 0:
-        print('姓名为:'+name+' 节点不存在！')
+        # print('姓名为:'+name+' 节点不存在！')
         return False
     else:
         return info
