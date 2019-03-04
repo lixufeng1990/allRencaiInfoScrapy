@@ -21,7 +21,7 @@ if __name__ == "__main__":
         else:
             unfind_urls.append(data)
     filter = filter_sameName.filter()
-    filter_result = filter.filter(unfind_urls[:10])
+    filter_result = filter.filter(unfind_urls)
     find_urls += filter_result[0]
     unfind_urls = filter_result[1]
 
@@ -31,7 +31,7 @@ if __name__ == "__main__":
     json.dump(unfind_urls, codecs.open(unfind_url_path,'w',encoding='utf-8'),ensure_ascii=False)
 
     all_rencai_info = []
-    for url in find_urls[:10]:
+    for url in find_urls:
         get_info = getContent_by_url.spbaike(url['find_name'], url['url'])
         if get_info:
             get_info['basic_info'] = url['origin_info']
