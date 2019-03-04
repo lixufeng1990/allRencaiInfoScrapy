@@ -69,7 +69,7 @@ class filter():
             best_url = ''
             for page in page_list:
                 score = 0
-                print("filter name: " + name + ", looking page: " + page[0])
+                # print("filter name: " + name + ", looking page: " + page[0])
                 page_text = page[1]
                 for key in infomatin:
                     if (key != 'name') and (infomatin[key] in page_text):
@@ -89,7 +89,7 @@ class filter():
                 best_url = ''
                 for item in character_list:
                     score = 0
-                    print("looking page: "+item['url'])
+                    # print("looking page: "+item['url'])
                     page_text = self.get_page_text(item['url'])
                     self.filter_bank[name].append((item['url'], page_text))
                     for key in infomatin:
