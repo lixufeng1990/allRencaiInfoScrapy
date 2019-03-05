@@ -10888,40 +10888,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=周志雄清华大学",
-    "unfind_name": "周志雄",
-    "unfind_depart": "清华大学",
-    "status": 200,
-    "origin_info": {
-      "name": "周志雄",
-      "department": "清华大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "生物能源与生物炼制",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E5%91%A8%E5%BF%97%E9%9B%84/39819",
-    "find_name": "周志雄"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=周维佳中国科学",
-    "unfind_name": "周维佳",
-    "unfind_depart": "中国科学院沈阳自动化研究所",
-    "status": 200,
-    "origin_info": {
-      "name": "周维佳",
-      "department": "中国科学院沈阳自动化研究所",
-      "job": "研究员",
-      "major": "信息科学",
-      "sub_major": "空间自动化",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/周维佳?force=1周维佳",
-    "find_name": "周维佳"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=周怀北武汉拇指",
     "unfind_name": "周怀北",
     "unfind_depart": "武汉拇指通科技有限公司",
@@ -10956,6 +10922,23 @@
   },
   {
     "find_flag": true,
+    "origin_url": "https://baike.baidu.com/search/none?word=职春星灿芯半导",
+    "unfind_name": "职春星",
+    "unfind_depart": "灿芯半导体（上海）有限公司",
+    "status": 200,
+    "origin_info": {
+      "name": "职春星",
+      "department": "灿芯半导体（上海）有限公司",
+      "job": "总裁兼首席执行官",
+      "major": "信息科学",
+      "sub_major": "",
+      "feature": "千人计划"
+    },
+    "url": "https://baike.baidu.com/item/职春星?force=1职春星",
+    "find_name": "职春星"
+  },
+  {
+    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=郑建成电子科技",
     "unfind_name": "郑建成",
     "unfind_depart": "电子科技大学",
@@ -10974,40 +10957,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=郑刚中兵光电",
-    "unfind_name": "郑刚",
-    "unfind_depart": "中兵光电科技股份有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "郑刚",
-      "department": "中兵光电科技股份有限公司",
-      "job": "研究员",
-      "major": "工程与材料科学",
-      "sub_major": "物理学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%83%91%E5%88%9A/3301424",
-    "find_name": "郑刚"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=赵炜西安宝莱",
-    "unfind_name": "赵炜",
-    "unfind_depart": "西安宝莱特光电科技有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "赵炜",
-      "department": "西安宝莱特光电科技有限公司",
-      "job": "总经理",
-      "major": "信息科学",
-      "sub_major": "新型平板显示技术和新型光伏技术",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E8%B5%B5%E7%82%9C/12636334",
-    "find_name": "赵炜"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=赵会中国兵器",
     "unfind_name": "赵会",
     "unfind_depart": "中国兵器装备集团公司长安汽车研究总院",
@@ -11022,40 +10971,6 @@
     },
     "url": "https://baike.baidu.com/item/%E8%B5%B5%E4%BC%9A/7486624",
     "find_name": "赵会"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=章亮炽哈尔滨工",
-    "unfind_name": "章亮炽",
-    "unfind_depart": "哈尔滨工业大学",
-    "status": 200,
-    "origin_info": {
-      "name": "章亮炽",
-      "department": "哈尔滨工业大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "纳米材料与纳米加工",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/章亮炽?force=1章亮炽",
-    "find_name": "章亮炽"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=张彦春中国科学",
-    "unfind_name": "张彦春",
-    "unfind_depart": "中国科学院研究生院",
-    "status": 200,
-    "origin_info": {
-      "name": "张彦春",
-      "department": "中国科学院研究生院",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "信息科学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E5%BC%A0%E5%BD%A6%E6%98%A5/1425324",
-    "find_name": "张彦春"
   },
   {
     "find_flag": true,
@@ -11088,43 +11003,8 @@
       "sub_major": "生命科学与医药（传染病防治）",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E5%BC%A0%E9%A2%96/16599720",
+    "url": "https://baike.baidu.com/item/%E5%BC%A0%E9%A2%96/6034289",
     "find_name": "张颖"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=张鹏飞博通集成",
-    "unfind_name": "张鹏飞",
-    "unfind_depart": "博通集成电路（上海）有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "张鹏飞",
-      "department": "博通集成电路（上海）有限公司",
-      "job": "董事长",
-      "major": "信息科学",
-      "sub_major": "微电子",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E5%BC%A0%E9%B9%8F%E9%A3%9E/7887935",
-    "find_name": "张鹏飞"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=张军上海交通",
-    "unfind_name": "张军",
-    "unfind_depart": "上海交通大学医学院附属新华医院",
-    "status": 200,
-    "baidu_find_other_name": "上海市遗传咨询专家委员会",
-    "origin_info": {
-      "name": "张军",
-      "department": "上海交通大学医学院附属新华医院",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "妇幼流行病学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E5%BC%A0%E5%86%9B/13784184",
-    "find_name": "张军"
   },
   {
     "find_flag": true,
@@ -11177,24 +11057,6 @@
     },
     "url": "https://baike.baidu.com/item/张二利?force=1张二利",
     "find_name": "张二利"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=云峰西安交通",
-    "unfind_name": "云峰",
-    "unfind_depart": "西安交通大学",
-    "status": 200,
-    "baidu_find_other_name": "邢子文",
-    "origin_info": {
-      "name": "云峰",
-      "department": "西安交通大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "半导体光电器件",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E4%BA%91%E5%B3%B0/7238298",
-    "find_name": "云峰"
   },
   {
     "find_flag": true,
@@ -11285,23 +11147,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=叶培德华中科技",
-    "unfind_name": "叶培德",
-    "unfind_depart": "华中科技大学",
-    "status": 200,
-    "origin_info": {
-      "name": "叶培德",
-      "department": "华中科技大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "微电子学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/叶培德?force=1叶培德",
-    "find_name": "叶培德"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=叶德全上海交通",
     "unfind_name": "叶德全",
     "unfind_depart": "上海交通大学",
@@ -11335,24 +11180,6 @@
     },
     "url": "https://baike.baidu.com/item/%E6%9D%A8%E5%85%83%E5%85%83/19407784",
     "find_name": "杨元元"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=杨天新中山大学",
-    "unfind_name": "杨天新",
-    "unfind_depart": "中山大学",
-    "status": 200,
-    "baidu_find_other_name": "中山大学中山医学院",
-    "origin_info": {
-      "name": "杨天新",
-      "department": "中山大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "肥胖型高血压发病机制",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/杨天新?force=1杨天新",
-    "find_name": "杨天新"
   },
   {
     "find_flag": true,
@@ -11459,20 +11286,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=许春铁中国兵器",
-    "unfind_name": "许春铁",
-    "unfind_depart": "中国兵器装备集团公司长安汽车",
+    "origin_url": "https://baike.baidu.com/search/none?word=徐政和清华大学",
+    "unfind_name": "徐政和",
+    "unfind_depart": "清华大学",
     "status": 200,
     "origin_info": {
-      "name": "许春铁",
-      "department": "中国兵器装备集团公司长安汽车",
-      "job": "汽车结构CAE总工程师",
+      "name": "徐政和",
+      "department": "清华大学",
+      "job": "教授",
       "major": "工程与材料科学",
-      "sub_major": "机械工程",
+      "sub_major": "冶金化工与资源循环利用",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/许春铁?force=1许春铁",
-    "find_name": "许春铁"
+    "url": "https://baike.baidu.com/item/徐政和?force=1徐政和",
+    "find_name": "徐政和"
   },
   {
     "find_flag": true,
@@ -11508,24 +11335,6 @@
     },
     "url": "https://baike.baidu.com/item/%E5%BE%90%E6%B4%81/18887140",
     "find_name": "徐洁"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=熊子祥北京航空",
-    "unfind_name": "熊子祥",
-    "unfind_depart": "北京航空航天大学",
-    "status": 200,
-    "baidu_find_other_name": "关于对2009年度长江学者特聘教授",
-    "origin_info": {
-      "name": "熊子祥",
-      "department": "北京航空航天大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "信号与信息处理",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/熊子祥?force=1熊子祥",
-    "find_name": "熊子祥"
   },
   {
     "find_flag": true,
@@ -11633,24 +11442,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=吴跃华中科技",
-    "unfind_name": "吴跃",
-    "unfind_depart": "华中科技大学",
-    "status": 200,
-    "baidu_find_other_name": "吴兆龙",
-    "origin_info": {
-      "name": "吴跃",
-      "department": "华中科技大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "材料物理",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E5%90%B4%E8%B7%83/3472977",
-    "find_name": "吴跃"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=吴雪松天津大学",
     "unfind_name": "吴雪松",
     "unfind_depart": "天津大学",
@@ -11681,25 +11472,8 @@
       "sub_major": "水动力;计算流体力学;流固耦合;船舶力学;海洋工程;解析方法",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E5%90%B4%E5%9B%BD%E9%9B%84/53574",
+    "url": "https://baike.baidu.com/item/%E5%90%B4%E5%9B%BD%E9%9B%84/312422",
     "find_name": "吴国雄"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=魏庆义复旦大学",
-    "unfind_name": "魏庆义",
-    "unfind_depart": "复旦大学",
-    "status": 200,
-    "origin_info": {
-      "name": "魏庆义",
-      "department": "复旦大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "流行病与卫生统计学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/魏庆义?force=1魏庆义",
-    "find_name": "魏庆义"
   },
   {
     "find_flag": true,
@@ -11732,43 +11506,8 @@
       "sub_major": "植物病理学",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E7%8E%8B%E5%BF%97%E4%BC%9F/4294244",
+    "url": "https://baike.baidu.com/item/%E7%8E%8B%E5%BF%97%E4%BC%9F/16211989",
     "find_name": "王志伟"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王镇中国科学",
-    "unfind_name": "王镇",
-    "unfind_depart": "中国科学院上海微系统与信息技术研究所",
-    "status": 200,
-    "origin_info": {
-      "name": "王镇",
-      "department": "中国科学院上海微系统与信息技术研究所",
-      "job": "研究员",
-      "major": "信息科学",
-      "sub_major": "超导电子学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E7%8E%8B%E9%95%87/2268604",
-    "find_name": "王镇"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王寅格林百奥",
-    "unfind_name": "王寅",
-    "unfind_depart": "格林百奥生态材料科技（上海）有限公司",
-    "status": 200,
-    "baidu_find_other_name": "格林百奥生态材料科技",
-    "origin_info": {
-      "name": "王寅",
-      "department": "格林百奥生态材料科技（上海）有限公司",
-      "job": "总裁",
-      "major": "新材料",
-      "sub_major": "低碳",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E7%8E%8B%E5%AF%85/7328438",
-    "find_name": "王寅"
   },
   {
     "find_flag": true,
@@ -11825,24 +11564,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王力帆中国科学",
-    "unfind_name": "王力帆",
-    "unfind_depart": "中国科学院紫金山天文台",
-    "status": 200,
-    "baidu_find_other_name": "中国科学院南极天文中心",
-    "origin_info": {
-      "name": "王力帆",
-      "department": "中国科学院紫金山天文台",
-      "job": "研究员",
-      "major": "数理科学",
-      "sub_major": "天文学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/王力帆?force=1王力帆",
-    "find_name": "王力帆"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=王晋海洋石油",
     "unfind_name": "王晋",
     "unfind_depart": "海洋石油工程股份有限公司",
@@ -11857,41 +11578,6 @@
     },
     "url": "https://baike.baidu.com/item/%E7%8E%8B%E6%99%8B/313457",
     "find_name": "王晋"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王晖盛美半导",
-    "unfind_name": "王晖",
-    "unfind_depart": "盛美半导体设备（上海）有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "王晖",
-      "department": "盛美半导体设备（上海）有限公司",
-      "job": "董事长",
-      "major": "信息科学",
-      "sub_major": "半导体设备",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E7%8E%8B%E6%99%96/3742090",
-    "find_name": "王晖"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王海林中国科学",
-    "unfind_name": "王海林",
-    "unfind_depart": "中国科学技术大学",
-    "status": 200,
-    "baidu_find_other_name": "中国科学技术大学校友总会",
-    "origin_info": {
-      "name": "王海林",
-      "department": "中国科学技术大学",
-      "job": "教授",
-      "major": "数理科学",
-      "sub_major": "物理专业",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E7%8E%8B%E6%B5%B7%E6%9E%97/1829494",
-    "find_name": "王海林"
   },
   {
     "find_flag": true,
@@ -12032,6 +11718,23 @@
   },
   {
     "find_flag": true,
+    "origin_url": "https://baike.baidu.com/search/none?word=斯蒂芬·戴维·帕斯克（PaskStephenDavid）中国化工",
+    "unfind_name": "斯蒂芬·戴维·帕斯克（PaskStephenDavid）",
+    "unfind_depart": "中国化工集团公司",
+    "status": 200,
+    "origin_info": {
+      "name": "斯蒂芬·戴维·帕斯克（PaskStephenDavid）",
+      "department": "中国化工集团公司",
+      "job": "",
+      "major": "化学",
+      "sub_major": "",
+      "feature": "千人计划"
+    },
+    "url": "https://baike.baidu.com/item/斯蒂芬·戴维·帕斯克（PaskStephenDavid）?force=1斯蒂芬·戴维·帕斯克（PaskStephenDavid）",
+    "find_name": "斯蒂芬·戴维·帕斯克（PaskStephenDavid）"
+  },
+  {
+    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=侍乐媛北京大学",
     "unfind_name": "侍乐媛",
     "unfind_depart": "北京大学",
@@ -12067,38 +11770,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=史国均东南大学",
-    "unfind_name": "史国均",
-    "unfind_depart": "东南大学",
+    "origin_url": "https://baike.baidu.com/search/none?word=施文元四川大学",
+    "unfind_name": "施文元",
+    "unfind_depart": "四川大学",
     "status": 200,
     "origin_info": {
-      "name": "史国均",
-      "department": "东南大学",
+      "name": "施文元",
+      "department": "四川大学",
       "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "健康科学与技术",
+      "major": "生物医药与生命科学",
+      "sub_major": "口腔感染性疾病的分子微生物学与遗传学研究",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/史国均?force=1史国均",
-    "find_name": "史国均"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=施向东无锡亿唐",
-    "unfind_name": "施向东",
-    "unfind_depart": "无锡亿唐动画设计有限公司",
-    "status": 200,
-    "baidu_find_other_name": "无锡亿唐动画设计有限公司",
-    "origin_info": {
-      "name": "施向东",
-      "department": "无锡亿唐动画设计有限公司",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "其他",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E6%96%BD%E5%90%91%E4%B8%9C/4725516",
-    "find_name": "施向东"
+    "url": "https://baike.baidu.com/item/施文元?force=1施文元",
+    "find_name": "施文元"
   },
   {
     "find_flag": true,
@@ -12119,39 +11804,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=沈文辉复旦大学",
-    "unfind_name": "沈文辉",
-    "unfind_depart": "复旦大学",
+    "origin_url": "https://baike.baidu.com/search/none?word=沈同德南京工业",
+    "unfind_name": "沈同德",
+    "unfind_depart": "南京工业大学",
     "status": 200,
-    "baidu_find_other_name": "复旦大学",
     "origin_info": {
-      "name": "沈文辉",
-      "department": "复旦大学",
-      "job": "特聘教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "植物细胞生理 ",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E6%B2%88%E6%96%87%E8%BE%89/69182",
-    "find_name": "沈文辉"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=沈平华中科技",
-    "unfind_name": "沈平",
-    "unfind_depart": "华中科技大学",
-    "status": 200,
-    "baidu_find_other_name": "易林",
-    "origin_info": {
-      "name": "沈平",
-      "department": "华中科技大学",
+      "name": "沈同德",
+      "department": "南京工业大学",
       "job": "教授",
-      "major": "信息科学",
-      "sub_major": "光纤通信",
+      "major": "工程与材料科学",
+      "sub_major": "工程与材料科学",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E6%B2%88%E5%B9%B3/2852719",
-    "find_name": "沈平"
+    "url": "https://baike.baidu.com/item/沈同德?force=1沈同德",
+    "find_name": "沈同德"
   },
   {
     "find_flag": true,
@@ -12172,39 +11838,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=邵军华东师范",
-    "unfind_name": "邵军",
-    "unfind_depart": "华东师范大学",
+    "origin_url": "https://baike.baidu.com/search/none?word=邵建富河海大学",
+    "unfind_name": "邵建富",
+    "unfind_depart": "河海大学",
     "status": 200,
-    "baidu_find_other_name": "华东师范大学应用统计科学研究院",
     "origin_info": {
-      "name": "邵军",
-      "department": "华东师范大学",
+      "name": "邵建富",
+      "department": "河海大学",
       "job": "教授",
-      "major": "数理科学",
-      "sub_major": "统计学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%82%B5%E5%86%9B/2308223",
-    "find_name": "邵军"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=邵国胜郑州大学",
-    "unfind_name": "邵国胜",
-    "unfind_depart": "郑州大学",
-    "status": 200,
-    "baidu_find_other_name": "郑州大学材料科学与工程学院",
-    "origin_info": {
-      "name": "邵国胜",
-      "department": "郑州大学",
-      "job": "教授，低碳及环境材料研究中心主任",
       "major": "工程与材料科学",
-      "sub_major": "功能材料及器件",
+      "sub_major": "水利工程;土木工程;工程力学;混凝土与岩石力学;实验研究;本构模型与数值模拟 ",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E9%82%B5%E5%9B%BD%E8%83%9C/9875084",
-    "find_name": "邵国胜"
+    "url": "https://baike.baidu.com/item/%E9%82%B5%E5%BB%BA%E5%AF%8C",
+    "find_name": "邵建富"
   },
   {
     "find_flag": true,
@@ -12243,54 +11890,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=邱慈云上海华虹",
-    "unfind_name": "邱慈云",
-    "unfind_depart": "上海华虹NEC电子有限公司变更为中芯国际有限公司",
+    "origin_url": "https://baike.baidu.com/search/none?word=秦宏中国科学",
+    "unfind_name": "秦宏",
+    "unfind_depart": "中国科学技术大学",
     "status": 200,
     "origin_info": {
-      "name": "邱慈云",
-      "department": "上海华虹NEC电子有限公司变更为中芯国际有限公司",
-      "job": "首席执行官兼执行董事",
-      "major": "工程与材料科学",
-      "sub_major": "电子工程和计算机科学博士",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/邱慈云?force=1邱慈云",
-    "find_name": "邱慈云"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=钱正洪中国船舶",
-    "unfind_name": "钱正洪",
-    "unfind_depart": "中国船舶重工集团公司宜昌东方微磁科技有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "钱正洪",
-      "department": "中国船舶重工集团公司宜昌东方微磁科技有限公司",
-      "job": "执行董事、技术总裁 ",
-      "major": "工程与材料科学",
-      "sub_major": "电子工程",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/钱正洪?force=1钱正洪",
-    "find_name": "钱正洪"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=裴真明北京师范",
-    "unfind_name": "裴真明",
-    "unfind_depart": "北京师范大学",
-    "status": 200,
-    "origin_info": {
-      "name": "裴真明",
-      "department": "北京师范大学",
+      "name": "秦宏",
+      "department": "中国科学技术大学",
       "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "生命科学",
+      "major": "数理科学",
+      "sub_major": "高强度粒子束物理、离子束聚变能应用",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/裴真明?force=1裴真明",
-    "find_name": "裴真明"
+    "url": "https://baike.baidu.com/item/%E7%A7%A6%E5%AE%8F/14078996",
+    "find_name": "秦宏"
   },
   {
     "find_flag": true,
@@ -12326,24 +11939,6 @@
     },
     "url": "https://baike.baidu.com/item/穆海东?force=1穆海东",
     "find_name": "穆海东"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=毛力上海交通",
-    "unfind_name": "毛力",
-    "unfind_depart": "上海交通大学",
-    "status": 200,
-    "baidu_find_other_name": "上海交通大学医学院",
-    "origin_info": {
-      "name": "毛力",
-      "department": "上海交通大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "口腔颌面头颈-胸部肿瘤",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E6%AF%9B%E5%8A%9B/17216440",
-    "find_name": "毛力"
   },
   {
     "find_flag": true,
@@ -12450,21 +12045,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=卢志扬北京大学",
-    "unfind_name": "卢志扬",
-    "unfind_depart": "北京大学",
+    "origin_url": "https://baike.baidu.com/search/none?word=卢山武汉大学",
+    "unfind_name": "卢山",
+    "unfind_depart": "武汉大学",
     "status": 200,
-    "baidu_find_other_name": "闽江学院北京校区",
     "origin_info": {
-      "name": "卢志扬",
-      "department": "北京大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "工程与材料",
+      "name": "卢山",
+      "department": "武汉大学",
+      "job": "特聘专家",
+      "major": "生物医药与生命科学",
+      "sub_major": "生命科学",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/卢志扬?force=1卢志扬",
-    "find_name": "卢志扬"
+    "url": "https://baike.baidu.com/item/%E5%8D%A2%E5%B1%B1/4977088",
+    "find_name": "卢山"
   },
   {
     "find_flag": true,
@@ -12552,41 +12146,6 @@
     },
     "url": "https://baike.baidu.com/item/刘惠春?force=1刘惠春",
     "find_name": "刘惠春"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=刘凤鸣威海海立",
-    "unfind_name": "刘凤鸣",
-    "unfind_depart": "威海海立欣生物工程技术有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "刘凤鸣",
-      "department": "威海海立欣生物工程技术有限公司",
-      "job": "总经理",
-      "major": "生物医药与生命科学",
-      "sub_major": "生物制药",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E5%88%98%E5%87%A4%E9%B8%A3/7218585",
-    "find_name": "刘凤鸣"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=林平北京科技",
-    "unfind_name": "林平",
-    "unfind_depart": "北京科技大学",
-    "status": 200,
-    "baidu_find_other_name": "北京林平科技有限公司",
-    "origin_info": {
-      "name": "林平",
-      "department": "北京科技大学",
-      "job": "教授",
-      "major": "数理科学",
-      "sub_major": "数值分析",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E6%9E%97%E5%B9%B3/10480529",
-    "find_name": "林平"
   },
   {
     "find_flag": true,
@@ -12692,24 +12251,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=李烨电子科技",
-    "unfind_name": "李烨",
-    "unfind_depart": "电子科技大学",
-    "status": 200,
-    "baidu_find_other_name": "河南李烨包装科技有限公司",
-    "origin_info": {
-      "name": "李烨",
-      "department": "电子科技大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "无线通信与\n统计信号处理",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E6%9D%8E%E7%83%A8/12518718",
-    "find_name": "李烨"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=李晓榕西安交通",
     "unfind_name": "李晓榕",
     "unfind_depart": "西安交通大学",
@@ -12740,7 +12281,7 @@
       "sub_major": "",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E6%9D%8E%E5%90%91%E9%98%B3/10970049",
+    "url": "https://baike.baidu.com/item/%E6%9D%8E%E5%90%91%E9%98%B3/16351",
     "find_name": "李向阳"
   },
   {
@@ -12757,25 +12298,8 @@
       "sub_major": "",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E6%9D%8E%E7%8E%AE/550453",
+    "url": "https://baike.baidu.com/item/%E6%9D%8E%E7%8E%AE/19711153",
     "find_name": "李玮"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=李乐伟成都电子",
-    "unfind_name": "李乐伟",
-    "unfind_depart": "成都电子科技大学",
-    "status": 200,
-    "origin_info": {
-      "name": "李乐伟",
-      "department": "成都电子科技大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "电气工程",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E6%9D%8E%E4%B9%90%E4%BC%9F/9682736",
-    "find_name": "李乐伟"
   },
   {
     "find_flag": true,
@@ -12791,25 +12315,8 @@
       "sub_major": "计算机、无线传感器网络",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E6%9D%8E%E5%8D%8E/7890561",
+    "url": "https://baike.baidu.com/item/%E6%9D%8E%E5%8D%8E/19917410",
     "find_name": "李华"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=李桂芳天津大学",
-    "unfind_name": "李桂芳",
-    "unfind_depart": "天津大学",
-    "status": 200,
-    "origin_info": {
-      "name": "李桂芳",
-      "department": "天津大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "光学工程",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E6%9D%8E%E6%A1%82%E8%8A%B3/4558993",
-    "find_name": "李桂芳"
   },
   {
     "find_flag": true,
@@ -12842,7 +12349,7 @@
       "sub_major": "电子工程",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E6%9D%8E%E6%B3%A2/1088855",
+    "url": "https://baike.baidu.com/item/%E6%9D%8E%E6%B3%A2/19627832",
     "find_name": "李波"
   },
   {
@@ -12862,23 +12369,6 @@
     },
     "url": "https://baike.baidu.com/item/%E8%93%9D%E5%BF%97%E5%8B%87",
     "find_name": "蓝志勇"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=康南中山大学",
-    "unfind_name": "康南",
-    "unfind_depart": "中山大学",
-    "status": 200,
-    "origin_info": {
-      "name": "康南",
-      "department": "中山大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "眼科，青光眼，流行病学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/康南?force=1康南",
-    "find_name": "康南"
   },
   {
     "find_flag": true,
@@ -12918,38 +12408,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=蒋向前复旦大学",
-    "unfind_name": "蒋向前",
-    "unfind_depart": "复旦大学",
+    "origin_url": "https://baike.baidu.com/search/none?word=蒋琪中国石油",
+    "unfind_name": "蒋琪",
+    "unfind_depart": "中国石油勘探开发研究院",
     "status": 200,
     "origin_info": {
-      "name": "蒋向前",
-      "department": "复旦大学",
-      "job": "特聘教授",
-      "major": "信息科学",
-      "sub_major": "光学",
+      "name": "蒋琪",
+      "department": "中国石油勘探开发研究院",
+      "job": "首席专家",
+      "major": "环境与地球科学",
+      "sub_major": "石油开采工程",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/蒋向前?force=1蒋向前",
-    "find_name": "蒋向前"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=姜羲中国科学",
-    "unfind_name": "姜羲",
-    "unfind_depart": "中国科学技术大学",
-    "status": 200,
-    "baidu_find_other_name": "火灾科学",
-    "origin_info": {
-      "name": "姜羲",
-      "department": "中国科学技术大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "火灾科学,燃烧学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/姜羲?force=1姜羲",
-    "find_name": "姜羲"
+    "url": "https://baike.baidu.com/item/%E8%92%8B%E7%90%AA/22870205",
+    "find_name": "蒋琪"
   },
   {
     "find_flag": true,
@@ -12984,7 +12456,7 @@
       "sub_major": "",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E9%BB%84%E6%B0%B8/13217547",
+    "url": "https://baike.baidu.com/item/%E9%BB%84%E6%B0%B8/1204935",
     "find_name": "黄永"
   },
   {
@@ -13024,54 +12496,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=胡小平清华大学",
-    "unfind_name": "胡小平",
-    "unfind_depart": "清华大学",
+    "origin_url": "https://baike.baidu.com/search/none?word=何田无锡派图",
+    "unfind_name": "何田",
+    "unfind_depart": "无锡派图半导体设备有限公司",
     "status": 200,
     "origin_info": {
-      "name": "胡小平",
-      "department": "清华大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "磁共振",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E8%83%A1%E5%B0%8F%E5%B9%B3/34449",
-    "find_name": "胡小平"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=侯东明北京中孵",
-    "unfind_name": "侯东明",
-    "unfind_depart": "北京中孵友信医药科技有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "侯东明",
-      "department": "北京中孵友信医药科技有限公司",
+      "name": "何田",
+      "department": "无锡派图半导体设备有限公司",
       "job": "董事长",
-      "major": "新材料",
-      "sub_major": "心血管",
+      "major": "信息科学",
+      "sub_major": "机械工程",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E4%BE%AF%E4%B8%9C%E6%98%8E/7173352",
-    "find_name": "侯东明"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=何小刚上海交通",
-    "unfind_name": "何小刚",
-    "unfind_depart": "上海交通大学",
-    "status": 200,
-    "origin_info": {
-      "name": "何小刚",
-      "department": "上海交通大学",
-      "job": "教授",
-      "major": "数理科学",
-      "sub_major": "理论物理",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E4%BD%95%E5%B0%8F%E5%88%9A/13479022",
-    "find_name": "何小刚"
+    "url": "https://baike.baidu.com/item/%E4%BD%95%E7%94%B0/10682412",
+    "find_name": "何田"
   },
   {
     "find_flag": true,
@@ -13128,23 +12566,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=顾国祥电子科技",
-    "unfind_name": "顾国祥",
-    "unfind_depart": "电子科技大学",
-    "status": 200,
-    "origin_info": {
-      "name": "顾国祥",
-      "department": "电子科技大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "信号与\n信息处理",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%A1%BE%E5%9B%BD%E7%A5%A5/3960746",
-    "find_name": "顾国祥"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=葛巧德上海交通",
     "unfind_name": "葛巧德",
     "unfind_depart": "上海交通大学",
@@ -13159,23 +12580,6 @@
     },
     "url": "https://baike.baidu.com/item/葛巧德?force=1葛巧德",
     "find_name": "葛巧德"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=高永立中南大学",
-    "unfind_name": "高永立",
-    "unfind_depart": "中南大学",
-    "status": 200,
-    "origin_info": {
-      "name": "高永立",
-      "department": "中南大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "材料表面电子学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%AB%98%E6%B0%B8%E7%AB%8B/2567844",
-    "find_name": "高永立"
   },
   {
     "find_flag": true,
@@ -13300,20 +12704,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=戴忠伟广芯电子",
-    "unfind_name": "戴忠伟",
-    "unfind_depart": "广芯电子技术（上海）有限公司",
+    "origin_url": "https://baike.baidu.com/search/none?word=丹尼尔.P.布罗.范.希尔汀格(DanielP.deBLOCQvanSCHELTINGA)中国化工",
+    "unfind_name": "丹尼尔.P.布罗.范.希尔汀格(DanielP.deBLOCQvanSCHELTINGA)",
+    "unfind_depart": "中国化工集团公司",
     "status": 200,
     "origin_info": {
-      "name": "戴忠伟",
-      "department": "广芯电子技术（上海）有限公司",
-      "job": "董事长兼总经理",
-      "major": "信息科学",
+      "name": "丹尼尔.P.布罗.范.希尔汀格(DanielP.deBLOCQvanSCHELTINGA)",
+      "department": "中国化工集团公司",
+      "job": "",
+      "major": "经济金融与管理",
       "sub_major": "",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/戴忠伟?force=1戴忠伟",
-    "find_name": "戴忠伟"
+    "url": "https://baike.baidu.com/item/丹尼尔.P.布罗.范.希尔汀格(DanielP.deBLOCQvanSCHELTINGA)?force=1丹尼尔.P.布罗.范.希尔汀格(DanielP.deBLOCQvanSCHELTINGA)",
+    "find_name": "丹尼尔.P.布罗.范.希尔汀格(DanielP.deBLOCQvanSCHELTINGA)"
   },
   {
     "find_flag": true,
@@ -13416,42 +12820,8 @@
       "sub_major": "",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E9%99%88%E6%99%BA%E5%8B%87/8728327",
+    "url": "https://baike.baidu.com/item/%E9%99%88%E6%99%BA%E5%8B%87/15979252",
     "find_name": "陈智勇"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=陈宇综四川大学",
-    "unfind_name": "陈宇综",
-    "unfind_depart": "四川大学",
-    "status": 200,
-    "origin_info": {
-      "name": "陈宇综",
-      "department": "四川大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "药物化学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/陈宇综?force=1陈宇综",
-    "find_name": "陈宇综"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=陈小元南京大学",
-    "unfind_name": "陈小元",
-    "unfind_depart": "南京大学",
-    "status": 200,
-    "origin_info": {
-      "name": "陈小元",
-      "department": "南京大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "分子影像和纳米医学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%99%88%E5%B0%8F%E5%85%83/14062267",
-    "find_name": "陈小元"
   },
   {
     "find_flag": true,
@@ -13490,20 +12860,21 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=陈宁中兴通讯",
-    "unfind_name": "陈宁",
-    "unfind_depart": "中兴通讯股份有限公司",
+    "origin_url": "https://baike.baidu.com/search/none?word=陈列平中山大学",
+    "unfind_name": "陈列平",
+    "unfind_depart": "中山大学",
     "status": 200,
+    "baidu_find_other_name": "中山大学中山医学院",
     "origin_info": {
-      "name": "陈宁",
-      "department": "中兴通讯股份有限公司",
-      "job": "技术总监",
-      "major": "信息科学",
-      "sub_major": "通信与信号处理",
+      "name": "陈列平",
+      "department": "中山大学",
+      "job": "教授",
+      "major": "生物医药与生命科学",
+      "sub_major": "免疫学",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E9%99%88%E5%AE%81/4177031",
-    "find_name": "陈宁"
+    "url": "https://baike.baidu.com/item/%E9%99%88%E5%88%97%E5%B9%B3/5758562",
+    "find_name": "陈列平"
   },
   {
     "find_flag": true,
@@ -13519,25 +12890,8 @@
       "sub_major": "微电子",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E9%99%88%E6%9D%B0/3890431",
+    "url": "https://baike.baidu.com/item/%E9%99%88%E6%9D%B0/1882293",
     "find_name": "陈杰"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=陈方兵器装备",
-    "unfind_name": "陈方",
-    "unfind_depart": "兵器装备集团长安汽车",
-    "status": 200,
-    "origin_info": {
-      "name": "陈方",
-      "department": "兵器装备集团长安汽车",
-      "job": "副部长",
-      "major": "经济金融与管理",
-      "sub_major": "采购管理",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%99%88%E6%96%B9/4546756",
-    "find_name": "陈方"
   },
   {
     "find_flag": true,
@@ -13594,20 +12948,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=李靖北京盛诺",
-    "unfind_name": "李靖",
-    "unfind_depart": "北京盛诺基医药科技有限公司",
+    "origin_url": "https://baike.baidu.com/search/none?word=Ross Macallister罗斯·麦卡勒斯特中国化工",
+    "unfind_name": "Ross Macallister罗斯·麦卡勒斯特",
+    "unfind_depart": "中国化工集团公司",
     "status": 200,
     "origin_info": {
-      "name": "李靖",
-      "department": "北京盛诺基医药科技有限公司",
-      "job": "总裁",
-      "major": "生物医药与生命科学",
-      "sub_major": "新药研发",
+      "name": "Ross Macallister罗斯·麦卡勒斯特",
+      "department": "中国化工集团公司",
+      "job": "",
+      "major": "信息科学",
+      "sub_major": "",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E6%9D%8E%E9%9D%96/20348045",
-    "find_name": "李靖"
+    "url": "https://baike.baidu.com/item/Ross Macallister罗斯·麦卡勒斯特?force=1Ross Macallister罗斯·麦卡勒斯特",
+    "find_name": "Ross Macallister罗斯·麦卡勒斯特"
   },
   {
     "find_flag": true,
@@ -13626,40 +12980,6 @@
     },
     "url": "https://baike.baidu.com/item/裘进浩?force=1裘进浩",
     "find_name": "裘进浩"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王朝阳北京大学",
-    "unfind_name": "王朝阳",
-    "unfind_depart": "北京大学",
-    "status": 200,
-    "origin_info": {
-      "name": "王朝阳",
-      "department": "北京大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "能源模拟与仿真",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E7%8E%8B%E6%9C%9D%E9%98%B3/43794",
-    "find_name": "王朝阳"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=康萤仪北京师范",
-    "unfind_name": "康萤仪",
-    "unfind_depart": "北京师范大学",
-    "status": 200,
-    "origin_info": {
-      "name": "康萤仪",
-      "department": "北京师范大学",
-      "job": "教授",
-      "major": "人文社会科学",
-      "sub_major": "社会\n心理学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/康萤仪?force=1康萤仪",
-    "find_name": "康萤仪"
   },
   {
     "find_flag": true,
@@ -13693,61 +13013,8 @@
       "sub_major": "电子与计算机工程",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E5%88%98%E8%BE%89/2864622",
+    "url": "https://baike.baidu.com/item/%E5%88%98%E8%BE%89/2864961",
     "find_name": "刘辉"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=孟江洪上海交通",
-    "unfind_name": "孟江洪",
-    "unfind_depart": "上海交通大学",
-    "status": 200,
-    "origin_info": {
-      "name": "孟江洪",
-      "department": "上海交通大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "食品微生物与安全",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/孟江洪?force=1孟江洪",
-    "find_name": "孟江洪"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=牛春明西安交通",
-    "unfind_name": "牛春明",
-    "unfind_depart": "西安交通大学",
-    "status": 200,
-    "baidu_find_other_name": "西安交通大学电气工程学院",
-    "origin_info": {
-      "name": "牛春明",
-      "department": "西安交通大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "材料/物理化学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/牛春明?force=1牛春明",
-    "find_name": "牛春明"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王曦浙江大学",
-    "unfind_name": "王曦",
-    "unfind_depart": "浙江大学",
-    "status": 200,
-    "baidu_find_other_name": "李杰",
-    "origin_info": {
-      "name": "王曦",
-      "department": "浙江大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "微电子学与固体电子学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E7%8E%8B%E6%9B%A6/3358190",
-    "find_name": "王曦"
   },
   {
     "find_flag": true,
@@ -13820,89 +13087,20 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=陈建福对外经济",
-    "unfind_name": "陈建福",
-    "unfind_depart": "对外经济贸易大学",
+    "origin_url": "https://baike.baidu.com/search/none?word=刘轶军上海大学",
+    "unfind_name": "刘轶军",
+    "unfind_depart": "上海大学",
     "status": 200,
     "origin_info": {
-      "name": "陈建福",
-      "department": "对外经济贸易大学",
-      "job": "教授",
-      "major": "人文社会科学",
-      "sub_major": "比较法、\n国际经贸法、国际私法",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%99%88%E5%BB%BA%E7%A6%8F/10455994",
-    "find_name": "陈建福"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=黄坚上海财经",
-    "unfind_name": "黄坚",
-    "unfind_depart": "上海财经大学",
-    "status": 200,
-    "origin_info": {
-      "name": "黄坚",
-      "department": "上海财经大学",
-      "job": "教授",
-      "major": "经济金融与管理",
-      "sub_major": "统计学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%BB%84%E5%9D%9A/8171969",
-    "find_name": "黄坚"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=张弛江苏大学",
-    "unfind_name": "张弛",
-    "unfind_depart": "江苏大学",
-    "status": 200,
-    "baidu_find_other_name": "江苏大学科学研究院",
-    "origin_info": {
-      "name": "张弛",
-      "department": "江苏大学",
+      "name": "刘轶军",
+      "department": "上海大学",
       "job": "教授",
       "major": "工程与材料科学",
-      "sub_major": "非线性光学功能材料",
+      "sub_major": "计算力学",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E5%BC%A0%E5%BC%9B/3662352",
-    "find_name": "张弛"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=刘友华南方医科",
-    "unfind_name": "刘友华",
-    "unfind_depart": "南方医科大学",
-    "status": 200,
-    "origin_info": {
-      "name": "刘友华",
-      "department": "南方医科大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "病理学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E5%88%98%E5%8F%8B%E5%8D%8E/17487911",
-    "find_name": "刘友华"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=薛泉电子科技",
-    "unfind_name": "薛泉",
-    "unfind_depart": "电子科技大学",
-    "status": 200,
-    "origin_info": {
-      "name": "薛泉",
-      "department": "电子科技大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "电磁场与\n微波技术",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/薛泉?force=1薛泉",
-    "find_name": "薛泉"
+    "url": "https://baike.baidu.com/item/刘轶军?force=1刘轶军",
+    "find_name": "刘轶军"
   },
   {
     "find_flag": true,
@@ -13958,23 +13156,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王安斌中国船舶",
-    "unfind_name": "王安斌",
-    "unfind_depart": "中国船舶重工集团公司洛阳双瑞橡塑科技有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "王安斌",
-      "department": "中国船舶重工集团公司洛阳双瑞橡塑科技有限公司",
-      "job": "总工程师",
-      "major": "环境与地球科学",
-      "sub_major": "声与振动",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/王安斌?force=1王安斌",
-    "find_name": "王安斌"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=叶坚中国兵器",
     "unfind_name": "叶坚",
     "unfind_depart": "中国兵器装备集团公司重庆长安汽车股份有限公司",
@@ -14006,23 +13187,6 @@
     },
     "url": "https://baike.baidu.com/item/%E5%BE%90%E5%AE%8F%E6%9D%B0/7830351",
     "find_name": "徐宏杰"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=钱骏宝钢集团",
-    "unfind_name": "钱骏",
-    "unfind_depart": "宝钢集团华宝信托有限责任公司",
-    "status": 200,
-    "origin_info": {
-      "name": "钱骏",
-      "department": "宝钢集团华宝信托有限责任公司",
-      "job": "董事长",
-      "major": "经济金融与管理",
-      "sub_major": "投融资",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%92%B1%E9%AA%8F/1418116",
-    "find_name": "钱骏"
   },
   {
     "find_flag": true,
@@ -14089,7 +13253,7 @@
       "sub_major": "海洋生产",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E9%9F%A9%E5%86%9B/16169359",
+    "url": "https://baike.baidu.com/item/%E9%9F%A9%E5%86%9B/4607509",
     "find_name": "韩军"
   },
   {
@@ -14146,90 +13310,21 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=顾伟北京大学",
-    "unfind_name": "顾伟",
-    "unfind_depart": "北京大学",
+    "origin_url": "https://baike.baidu.com/search/none?word=梅林南昌大学",
+    "unfind_name": "梅林",
+    "unfind_depart": "南昌大学",
     "status": 200,
+    "baidu_find_other_name": "南昌大学",
     "origin_info": {
-      "name": "顾伟",
-      "department": "北京大学",
-      "job": "教授",
-      "major": "生物医药与生命科学",
-      "sub_major": "生命科学领域的肿瘤遗传学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%A1%BE%E4%BC%9F/5138898",
-    "find_name": "顾伟"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=韩涛清华大学",
-    "unfind_name": "韩涛",
-    "unfind_depart": "清华大学",
-    "status": 200,
-    "origin_info": {
-      "name": "韩涛",
-      "department": "清华大学",
-      "job": "教授",
-      "major": "数理科学",
-      "sub_major": "粒子物理",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%9F%A9%E6%B6%9B/17537589",
-    "find_name": "韩涛"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=陈世卿清华大学",
-    "unfind_name": "陈世卿",
-    "unfind_depart": "清华大学",
-    "status": 200,
-    "origin_info": {
-      "name": "陈世卿",
-      "department": "清华大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "计算机科学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%99%88%E4%B8%96%E5%8D%BF/10334497",
-    "find_name": "陈世卿"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=冯国平华东师范",
-    "unfind_name": "冯国平",
-    "unfind_depart": "华东师范大学",
-    "status": 200,
-    "baidu_find_other_name": "华东师范大学认知神经科学研究所",
-    "origin_info": {
-      "name": "冯国平",
-      "department": "华东师范大学",
+      "name": "梅林",
+      "department": "南昌大学",
       "job": "教授",
       "major": "生物医药与生命科学",
       "sub_major": "神经生物学",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E5%86%AF%E5%9B%BD%E5%B9%B3/1364649",
-    "find_name": "冯国平"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=张平中国海洋",
-    "unfind_name": "张平",
-    "unfind_depart": "中国海洋大学",
-    "status": 200,
-    "baidu_find_other_name": "中国海洋经济发展报告",
-    "origin_info": {
-      "name": "张平",
-      "department": "中国海洋大学",
-      "job": "教授",
-      "major": "环境与地球科学",
-      "sub_major": "海洋环流与气候变化",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E5%BC%A0%E5%B9%B3/22185171",
-    "find_name": "张平"
+    "url": "https://baike.baidu.com/item/%E6%A2%85%E6%9E%97/2369268",
+    "find_name": "梅林"
   },
   {
     "find_flag": true,
@@ -14268,24 +13363,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=彭扬北京阅联",
-    "unfind_name": "彭扬",
-    "unfind_depart": "北京阅联信息技术公司",
-    "status": 200,
-    "baidu_find_other_name": "北京阅联信息技术有限公司",
-    "origin_info": {
-      "name": "彭扬",
-      "department": "北京阅联信息技术公司",
-      "job": "董事长",
-      "major": "信息科学",
-      "sub_major": "软件",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E5%BD%AD%E6%89%AC/9731849",
-    "find_name": "彭扬"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=曲兆松润恺禾信",
     "unfind_name": "曲兆松",
     "unfind_depart": "润恺禾信息系统技术开发（北京）有限责任公司",
@@ -14300,41 +13377,6 @@
     },
     "url": "https://baike.baidu.com/item/曲兆松?force=1曲兆松",
     "find_name": "曲兆松"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=陈平上海泓博",
-    "unfind_name": "陈平",
-    "unfind_depart": "上海泓博智源医药技术有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "陈平",
-      "department": "上海泓博智源医药技术有限公司",
-      "job": "董事长",
-      "major": "生物医药与生命科学",
-      "sub_major": "新药研发",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E9%99%88%E5%B9%B3/22112360",
-    "find_name": "陈平"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=李旭苏州先阔",
-    "unfind_name": "李旭",
-    "unfind_depart": "苏州先阔生物科技有限公司",
-    "status": 200,
-    "baidu_find_other_name": "苏州先阔生物科技有限公司",
-    "origin_info": {
-      "name": "李旭",
-      "department": "苏州先阔生物科技有限公司",
-      "job": "董事长",
-      "major": "节能与新能源",
-      "sub_major": "秸秆转换燃料",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E6%9D%8E%E6%97%AD/20282313",
-    "find_name": "李旭"
   },
   {
     "find_flag": true,
@@ -14353,23 +13395,6 @@
     },
     "url": "https://baike.baidu.com/item/%E5%88%98%E5%BF%97%E5%AE%8F/2327460",
     "find_name": "刘志宏"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王靖北电能源",
-    "unfind_name": "王靖",
-    "unfind_depart": "北电能源（青岛）有限公司",
-    "status": 200,
-    "origin_info": {
-      "name": "王靖",
-      "department": "北电能源（青岛）有限公司",
-      "job": "总经理",
-      "major": "节能与新能源",
-      "sub_major": "并网光伏逆变器、智能电网",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E7%8E%8B%E9%9D%96/2062251",
-    "find_name": "王靖"
   },
   {
     "find_flag": true,
@@ -14424,24 +13449,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=董华同济大学",
-    "unfind_name": "董华",
-    "unfind_depart": "同济大学",
-    "status": 200,
-    "baidu_find_other_name": "同济大学传播与艺术学院",
-    "origin_info": {
-      "name": "董华",
-      "department": "同济大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "工业设计",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E8%91%A3%E5%8D%8E/3173644",
-    "find_name": "董华"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=封心建中国科学",
     "unfind_name": "封心建",
     "unfind_depart": "中国科学院苏州纳米技术与纳米仿生研究所",
@@ -14488,7 +13495,7 @@
       "sub_major": "理论化学",
       "feature": "千人计划"
     },
-    "url": "https://baike.baidu.com/item/%E6%B1%9F%E4%BF%8A/5238080",
+    "url": "https://baike.baidu.com/item/%E6%B1%9F%E4%BF%8A/19882777",
     "find_name": "江俊"
   },
   {
@@ -14598,23 +13605,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=任伟北京理工",
-    "unfind_name": "任伟",
-    "unfind_depart": "北京理工大学",
-    "status": 200,
-    "origin_info": {
-      "name": "任伟",
-      "department": "北京理工大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "多智能体控制",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E4%BB%BB%E4%BC%9F/3836616",
-    "find_name": "任伟"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=孙育杰北京大学",
     "unfind_name": "孙育杰",
     "unfind_depart": "北京大学",
@@ -14665,24 +13655,6 @@
     },
     "url": "https://baike.baidu.com/item/%E7%8E%8B%E9%B9%8F/3622110",
     "find_name": "王鹏"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=王昕复旦大学",
-    "unfind_name": "王昕",
-    "unfind_depart": "复旦大学",
-    "status": 200,
-    "baidu_find_other_name": "我的青春我的团——复旦大学研究生支教团支教纪实",
-    "origin_info": {
-      "name": "王昕",
-      "department": "复旦大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "通信与信息系统",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E7%8E%8B%E6%98%95/4603425",
-    "find_name": "王昕"
   },
   {
     "find_flag": true,
@@ -14737,23 +13709,6 @@
   },
   {
     "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=袁宁电子科技",
-    "unfind_name": "袁宁",
-    "unfind_depart": "电子科技大学",
-    "status": 200,
-    "origin_info": {
-      "name": "袁宁",
-      "department": "电子科技大学",
-      "job": "教授",
-      "major": "信息科学",
-      "sub_major": "电磁场与微波技术",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E8%A2%81%E5%AE%81/15809874",
-    "find_name": "袁宁"
-  },
-  {
-    "find_flag": true,
     "origin_url": "https://baike.baidu.com/search/none?word=张华凤中国科学",
     "unfind_name": "张华凤",
     "unfind_depart": "中国科学技术大学",
@@ -14769,23 +13724,5 @@
     },
     "url": "https://baike.baidu.com/item/%E5%BC%A0%E5%8D%8E%E5%87%A4/3513122",
     "find_name": "张华凤"
-  },
-  {
-    "find_flag": true,
-    "origin_url": "https://baike.baidu.com/search/none?word=朱凯中国科学",
-    "unfind_name": "朱凯",
-    "unfind_depart": "中国科学技术大学",
-    "status": 200,
-    "baidu_find_other_name": "朱凯歌",
-    "origin_info": {
-      "name": "朱凯",
-      "department": "中国科学技术大学",
-      "job": "教授",
-      "major": "工程与材料科学",
-      "sub_major": "材料物理与化学",
-      "feature": "千人计划"
-    },
-    "url": "https://baike.baidu.com/item/%E6%9C%B1%E5%87%AF/3321706",
-    "find_name": "朱凯"
   }
 ]

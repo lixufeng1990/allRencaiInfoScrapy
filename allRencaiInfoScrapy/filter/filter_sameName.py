@@ -8,15 +8,9 @@ import requests
 from bs4 import BeautifulSoup
 import getContent_by_url
 
-# data_file_path = "./qingkeUrl.json"
-data_file_path = "../../qianrenUrl.json"
-# data_file_path = "./allQingkeUrl.json"
-# data_file_path = "./allFemaleUrl.json"
-find_url_path = "../../find_url.json"
-unfind_url_path = "../../unfind_url.json"
-
 class filter():
     filter_bank = {}
+    # not_filter_parameters = ['name', 'job']
     not_filter_parameters = ['name', 'sex', 'nation', 'age', 'job', 'political_outlook', 'session']
 
     def samename_process(self, name):
@@ -72,7 +66,7 @@ class filter():
                 # print("filter name: " + name + ", looking page: " + page[0])
                 page_text = page[1]
                 for key in infomatin:
-                    if (key != 'name') and (infomatin[key] in page_text):
+                    if (key not in self.not_filter_parameters) and (infomatin[key]) and (infomatin[key] in page_text):
                         score += 1
                 if score > best_score:
                     best_score = score
@@ -93,7 +87,7 @@ class filter():
                     page_text = self.get_page_text(item['url'])
                     self.filter_bank[name].append((item['url'], page_text))
                     for key in infomatin:
-                        if (key not in self.not_filter_parameters) and (infomatin[key] in page_text):
+                        if (key not in self.not_filter_parameters) and (infomatin[key]) and (infomatin[key] in page_text):
                             score += 1
                     if score > best_score:
                         best_score = score
