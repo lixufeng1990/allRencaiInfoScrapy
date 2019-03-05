@@ -17,7 +17,7 @@ unfind_url_path = "../../unfind_url.json"
 
 class filter():
     filter_bank = {}
-    not_filter_parameters = ['name', 'job']
+    not_filter_parameters = ['name', 'sex', 'nation', 'age', 'job', 'political_outlook', 'session']
 
     def samename_process(self, name):
         url = 'https://baike.baidu.com/item/{}?force=1'.format(name)

@@ -4,8 +4,8 @@ import filter_sameName
 import getContent_by_url
 
 # data_file_path = "./qingkeUrl.json"
-data_file_path = "../../qianrenUrl.json"
-# data_file_path = "./allQingkeUrl.json"
+# data_file_path = "../../qianrenUrl.json"
+data_file_path = "./allQingkeUrl.json"
 # data_file_path = "./allFemaleUrl.json"
 find_url_path = "../../find_url.json"
 unfind_url_path = "../../unfind_url.json"
