@@ -13,6 +13,8 @@ def spbaike(name, url):
     }
     time.sleep(0.1)
     info = {}
+    info['name'] = name
+    info['url'] = url
     wb_data = requests.get(url,headers=headers).content
     soup = BeautifulSoup(wb_data,'lxml')
     description = soup.select('body > div.body-wrapper > div.content-wrapper > div > div.main-content > div.lemma-summary > div ')

@@ -21,7 +21,7 @@ if __name__ == "__main__":
         else:
             unfind_urls.append(data)
     filter = filter_sameName.filter()
-    filter_result = filter.filter(unfind_urls)
+    filter_result = filter.filter_list(unfind_urls)
     find_urls += filter_result[0]
     unfind_urls = filter_result[1]
 

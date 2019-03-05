@@ -17,6 +17,7 @@ unfind_url_path = "../../unfind_url.json"
 
 class filter():
     filter_bank = {}
+    not_filter_parameters = ['name', 'job']
 
     def samename_process(self, name):
         url = 'https://baike.baidu.com/item/{}?force=1'.format(name)
@@ -62,7 +63,6 @@ class filter():
         return detail_content
 
     def filter_name_by_info(self, name, infomatin):
-        filter_result = {}
         if name in self.filter_bank.keys():
             page_list = self.filter_bank[name]
             best_score = 0
@@ -93,7 +93,7 @@ class filter():
                     page_text = self.get_page_text(item['url'])
                     self.filter_bank[name].append((item['url'], page_text))
                     for key in infomatin:
-                        if (key != 'name') and (infomatin[key] in page_text):
+                        if (key not in self.not_filter_parameters) and (infomatin[key] in page_text):
                             score += 1
                     if score > best_score:
                         best_score = score
@@ -105,7 +105,7 @@ class filter():
             else:
                 return False
 
-    def filter(self, all_unfind_data):
+    def filter_list(self, all_unfind_data):
         find_urls = []
         count = 0
         for data in all_unfind_data:

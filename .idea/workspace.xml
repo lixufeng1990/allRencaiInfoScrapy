@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="084ba19c-7fd4-4c95-94d6-a443ce83f8d5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allRencaiInfoScrapy/filter/dataFileProcess.py" afterPath="$PROJECT_DIR$/allRencaiInfoScrapy/filter/dataFileProcess.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py" afterPath="$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allRencaiInfoScrapy/filter/getContent_by_url.py" afterPath="$PROJECT_DIR$/allRencaiInfoScrapy/filter/getContent_by_url.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allRencaiInfoScrapy/spiders/allQianrenSpider.py" afterPath="$PROJECT_DIR$/allRencaiInfoScrapy/spiders/allQianrenSpider.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all_rencai_info.json" afterPath="$PROJECT_DIR$/all_rencai_info.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/find_url.json" afterPath="$PROJECT_DIR$/find_url.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unfind_url.json" afterPath="$PROJECT_DIR$/unfind_url.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +22,8 @@
       <file leaf-file-name="getContent_by_url.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/getContent_by_url.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="321">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding>
                 <element signature="e#23#50#0" expanded="true" />
               </folding>
@@ -25,21 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qianrenUrl.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/qianrenUrl.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="1622" column="108" lean-forward="false" selection-start-line="1622" selection-start-column="108" selection-end-line="1622" selection-end-column="108" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filter_sameName.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="filter_sameName.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="91" column="57" lean-forward="true" selection-start-line="91" selection-start-column="57" selection-end-line="91" selection-end-column="57" />
+            <state relative-caret-position="426">
+              <caret line="107" column="19" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="19" />
               <folding>
                 <element signature="e#23#50#0" expanded="true" />
               </folding>
@@ -47,23 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="origin_statistics_processing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/origin_statistics_processing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="94" column="23" lean-forward="true" selection-start-line="89" selection-start-column="4" selection-end-line="94" selection-end-column="23" />
-              <folding>
-                <element signature="e#23#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dataFileProcess.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dataFileProcess.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/dataFileProcess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="445">
+              <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -71,21 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all_rencai_info.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/all_rencai_info.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="74" column="630" lean-forward="true" selection-start-line="74" selection-start-column="630" selection-end-line="74" selection-end-column="630" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="find_url.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/find_url.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="0" column="232329" lean-forward="false" selection-start-line="0" selection-start-column="232329" selection-end-line="0" selection-end-column="232329" />
+            <state relative-caret-position="204">
+              <caret line="10805" column="30" lean-forward="true" selection-start-line="10805" selection-start-column="30" selection-end-line="10805" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -95,7 +69,27 @@
         <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/spiders/allQianrenSpider.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qianrenUrl.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qianrenUrl.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1031">
+              <caret line="1581" column="183" lean-forward="false" selection-start-line="1581" selection-start-column="183" selection-end-line="1581" selection-end-column="183" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_rencai_info.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all_rencai_info.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18577" column="150" lean-forward="false" selection-start-line="18577" selection-start-column="144" selection-end-line="18577" selection-end-column="150" />
               <folding />
             </state>
           </provider>
@@ -104,8 +98,8 @@
       <file leaf-file-name="unfind_url.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unfind_url.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+            <state relative-caret-position="21">
+              <caret line="217" column="23" lean-forward="false" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -122,18 +116,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>陈坤龙</find>
-      <find>RencaiinfoscrapyItem</find>
-      <find>已出国</find>
-      <find>翟长海</find>
-      <find>https://baike.baidu.com/search/none?word=庄伟东南京银茂</find>
-      <find>庄伟东南京银茂微电子制造有限公司</find>
       <find>赵祖</find>
       <find>庄伟东</find>
       <find>intitle:(庄伟东)</find>
       <find>荀鲁盈</find>
       <find>intitle:(左明健) -电子科技大学</find>
-      <find>&quot;find_flag&quot;: false</find>
       <find>intitle:(左明健)-电子科技大学</find>
       <find>左明健电子</find>
       <find>张远波</find>
@@ -152,6 +139,13 @@
       <find>json_data</find>
       <find>ITEM_PIPELINES</find>
       <find>研究方向</find>
+      <find>&quot;find_flag&quot;: false</find>
+      <find>&quot;find_flag&quot;: False</find>
+      <find>&quot;find_flag&quot;: True</find>
+      <find>unfind_depart</find>
+      <find>origin_info</find>
+      <find>千人计划</find>
+      <find>王鹏</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -184,14 +178,14 @@
         <option value="$PROJECT_DIR$/allRencaiInfoScrapy/items.py" />
         <option value="$PROJECT_DIR$/allRencaiInfoScrapy/spiders/allQianrenSpiderAndFilter.py" />
         <option value="$PROJECT_DIR$/origin_statistics_processing.py" />
-        <option value="$PROJECT_DIR$/allRencaiInfoScrapy/filter/getContent_by_url.py" />
         <option value="$PROJECT_DIR$/find_url.json" />
-        <option value="$PROJECT_DIR$/unfind_url.json" />
-        <option value="$PROJECT_DIR$/allRencaiInfoScrapy/spiders/allQianrenSpider.py" />
         <option value="$PROJECT_DIR$/all_rencai_info.json" />
-        <option value="$PROJECT_DIR$/qianrenUrl.json" />
+        <option value="$PROJECT_DIR$/unfind_url.json" />
+        <option value="$PROJECT_DIR$/allRencaiInfoScrapy/filter/getContent_by_url.py" />
         <option value="$PROJECT_DIR$/allRencaiInfoScrapy/filter/dataFileProcess.py" />
         <option value="$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py" />
+        <option value="$PROJECT_DIR$/allRencaiInfoScrapy/spiders/allQianrenSpider.py" />
+        <option value="$PROJECT_DIR$/qianrenUrl.json" />
       </list>
     </option>
   </component>
@@ -381,7 +375,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15245202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35595107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2269188" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -406,13 +400,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py</url>
           <line>64</line>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py</url>
@@ -421,12 +410,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py</url>
-          <line>20</line>
+          <line>21</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py</url>
-          <line>21</line>
+          <line>22</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
@@ -754,20 +743,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/spiders/allQianrenSpiderAndFilter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="121" column="43" lean-forward="false" selection-start-line="121" selection-start-column="34" selection-end-line="121" selection-end-column="43" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/origin_statistics_processing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="94" column="23" lean-forward="true" selection-start-line="89" selection-start-column="4" selection-end-line="94" selection-end-column="23" />
+          <folding>
+            <element signature="e#23#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/spiders/allQianrenSpiderAndFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="81" column="8" lean-forward="false" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_url.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="10805" column="30" lean-forward="true" selection-start-line="10805" selection-start-column="30" selection-end-line="10805" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unfind_url.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="217" column="23" lean-forward="false" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="107" column="19" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="19" />
           <folding>
             <element signature="e#23#50#0" expanded="true" />
           </folding>
@@ -776,32 +789,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/all_rencai_info.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="74" column="630" lean-forward="true" selection-start-line="74" selection-start-column="630" selection-end-line="74" selection-end-column="630" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find_url.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="0" column="232329" lean-forward="false" selection-start-line="0" selection-start-column="232329" selection-end-line="0" selection-end-column="232329" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unfind_url.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+        <state relative-caret-position="272">
+          <caret line="18577" column="150" lean-forward="false" selection-start-line="18577" selection-start-column="144" selection-end-line="18577" selection-end-column="150" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/getContent_by_url.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="321">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding>
             <element signature="e#23#50#0" expanded="true" />
           </folding>
@@ -811,35 +808,25 @@
     <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/spiders/allQianrenSpider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qianrenUrl.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1031">
+          <caret line="1581" column="183" lean-forward="false" selection-start-line="1581" selection-start-column="183" selection-end-line="1581" selection-end-column="183" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/dataFileProcess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="445">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qianrenUrl.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="1622" column="108" lean-forward="false" selection-start-line="1622" selection-start-column="108" selection-end-line="1622" selection-end-column="108" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allRencaiInfoScrapy/filter/filter_sameName.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="91" column="57" lean-forward="true" selection-start-line="91" selection-start-column="57" selection-end-line="91" selection-end-column="57" />
-          <folding>
-            <element signature="e#23#50#0" expanded="true" />
           </folding>
         </state>
       </provider>

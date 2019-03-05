@@ -21,7 +21,7 @@ class RencaiSpider(scrapy.Spider):
             request.meta['url'] = base_url + str(query_condition)
             request.meta['name'] = person['name']
             request.meta['department_and_job'] = person['department']
-            person['feature'] = u'千人计划'
+            person['feature'] = u'青年千人计划'
             request.meta['origin_info'] = person
             yield request
 
