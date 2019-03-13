@@ -10,8 +10,12 @@ import getContent_by_url
 
 class filter():
     filter_bank = {}
-    # not_filter_parameters = ['name', 'job']
-    not_filter_parameters = ['name', 'sex', 'nation', 'age', 'job', 'political_outlook', 'session']
+    # not_filter_parameters = ['name', 'job']  #千人计划
+    # not_filter_parameters = ['name', 'sex', 'nation', 'age', 'job', 'political_outlook', 'session']  #历届青科奖
+    # not_filter_parameters = ['name', 'sex', 'nation', 'age', 'maior_job', 'political_outlook', 'recommend_unit', 'unit_xingzhi', 'location']  #15届青科奖候选人
+    # not_filter_parameters = ['name', 'sex', 'birthDay', 'age', 'unit_xingzhi', 'province']  #15届青科奖候选人
+    # filter_parameters = ['xueke', 'department_and_job']  #第一届创新争先奖候选人
+    filter_parameters = ['xueke', 'suggest_unit', 'graduate_school', 'speciality', 'department_and_job']  #9届代表
 
     def samename_process(self, name):
         url = 'https://baike.baidu.com/item/{}?force=1'.format(name)
@@ -66,7 +70,7 @@ class filter():
                 # print("filter name: " + name + ", looking page: " + page[0])
                 page_text = page[1]
                 for key in infomatin:
-                    if (key not in self.not_filter_parameters) and (infomatin[key]) and (infomatin[key] in page_text):
+                    if (key in self.filter_parameters) and (infomatin[key]) and (infomatin[key] in page_text):
                         score += 1
                 if score > best_score:
                     best_score = score
@@ -87,7 +91,7 @@ class filter():
                     page_text = self.get_page_text(item['url'])
                     self.filter_bank[name].append((item['url'], page_text))
                     for key in infomatin:
-                        if (key not in self.not_filter_parameters) and (infomatin[key]) and (infomatin[key] in page_text):
+                        if (key in self.filter_parameters) and (infomatin[key]) and (infomatin[key] in page_text):
                             score += 1
                     if score > best_score:
                         best_score = score

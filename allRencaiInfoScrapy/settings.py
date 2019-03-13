@@ -67,9 +67,9 @@ USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.5 (
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'allRencaiInfoScrapy.pipelines.AllrencaiinfoscrapyPipeline': 300,
-}
+# ITEM_PIPELINES = {
+#    'allRencaiInfoScrapy.pipelines.AllrencaiinfoscrapyPipeline': 300,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

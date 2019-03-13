@@ -5,8 +5,11 @@ import getContent_by_url
 
 # data_file_path = "./qingkeUrl.json"
 # data_file_path = "../../qianrenUrl.json"
-data_file_path = "./allQingkeUrl.json"
-# data_file_path = "./allFemaleUrl.json"
+# data_file_path = "../../allQingkeUrl.json"
+# data_file_path = "../../fiftyQingkeUrl.json"
+# data_file_path = "../../allFemaleUrl.json"
+# data_file_path = "../../firstChuangxinCandidateUrl.json"
+data_file_path = "../../9thDaibiaoUrl.json"
 find_url_path = "../../find_url.json"
 unfind_url_path = "../../unfind_url.json"
 all_rencai_info_path = "../../all_rencai_info.json"

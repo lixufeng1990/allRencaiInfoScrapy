@@ -33,9 +33,8 @@ class rencaiBasicItem(scrapy.Item):
     content = scrapy.Field()
     pass
 
-class qianRen(scrapy.Item):
-    name = scrapy.Item()
-    department = scrapy.Item()
-    job = scrapy.Item()
-    major = scrapy.Item()
-    sub_major = scrapy.Item()
+class qianrenPlanItem(scrapy.Item):
+    name = scrapy.Field()
+    find_url = scrapy.Field()
+    origin_info = scrapy.Field()
+    pass
